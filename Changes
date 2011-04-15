@@ -1,6 +1,12 @@
-0.04 2009-09-29
+0.05 2011-04-15
 
-    * don't break html layout
+     * fix compatibility with 3.8.10
+     * fix situation when WebPath config option is not empty
+     * use better query string generation
+
+0.04 2009-09-30
+
+     * fix rendering issues in different browsers
 
 0.03 2009-09-23
 
